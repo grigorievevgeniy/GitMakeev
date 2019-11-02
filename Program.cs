@@ -12,8 +12,6 @@ namespace GitMakeev
         {
             //VS
             //GitHub
-
-            //For Revert (Delete Commit)
         }
     }
 }
