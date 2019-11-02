@@ -10,6 +10,7 @@ namespace GitMakeev
     {
         static void Main(string[] args)
         {
+            //VS
         }
     }
 }
