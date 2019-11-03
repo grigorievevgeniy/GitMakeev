@@ -12,5 +12,6 @@ namespace GitMakeev
         public string Surname { get; set; }
         public DateTime DateBirth { get; set; }
         public DateTime DateInput { get; set; }
+        public string Email { get; set; }
     }
 }
