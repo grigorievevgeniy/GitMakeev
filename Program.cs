@@ -12,6 +12,8 @@ namespace GitMakeev
         {
             //VS
             //GitHub
+
+            // Это разрабтка в новой ветке
         }
     }
 }
