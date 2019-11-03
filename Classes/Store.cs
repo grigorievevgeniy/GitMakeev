@@ -8,5 +8,6 @@ namespace GitMakeev.Classes
 {
     class Store
     {
+        // Rebase (перемещение)
     }
 }
