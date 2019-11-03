@@ -9,5 +9,7 @@ namespace GitMakeev
     class City
     {
         public int Popular { get; set; }
+        
+        // Rebase (Перемещение)
     }
 }
